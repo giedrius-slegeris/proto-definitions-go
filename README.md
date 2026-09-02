@@ -9,6 +9,8 @@ Generated Go bindings for the protocol buffer definitions in
 
 ## Install
 
+Requires Go 1.26 or newer.
+
 ```sh
 go get github.com/giedrius-slegeris/proto-definitions-go
 ```
